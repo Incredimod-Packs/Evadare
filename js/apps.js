@@ -581,7 +581,7 @@ versions.v4 = {
       uniqsnd: false,
     },
     {
-      name: "20_ø·ø ̈ùšù„ø© ø£øoù†ùšø©",
+      name: "20_ERROR",
       color: "61141B",
       uniqsnd: false,
     },
