@@ -2620,7 +2620,7 @@ function flipAlt() {
       Hide(2),
       Hide(3),
       unHide(4);
-    new Audio("evadare/badending_knife_open.ogg").play(),
+    new Audio("evadare/badending_knife_open.mp3").play(),
       document.getElementById("home-bt-darkalley").classList.add("animate"),
       OnDelayIn(100, () => {
         realEnding &&
@@ -2634,7 +2634,7 @@ function flipAlt() {
       unHide(2),
       unHide(3),
       Hide(4);
-    new Audio("evadare/badending_knife_close.ogg").play(),
+    new Audio("evadare/badending_knife_close.mp3").play(),
       document.getElementById("home-bt-darkalley").classList.remove("animate"),
       document.getElementById("home-bt-goodbye").classList.remove("animate"),
       (document.title = "Evadare"),
